@@ -1,0 +1,27 @@
+{
+  "Comment": "CREATE NS record",
+  "Changes": [
+    {
+      "Action": "CREATE",
+      "ResourceRecordSet": {
+        "Name": "st30.cj-cloud-wave.com.",
+        "Type": "NS",
+        "TTL": 300,
+        "ResourceRecords": [
+          {
+            "Value": ""
+          },
+          {
+            "Value": ""
+          },
+          {
+            "Value": ""
+          },
+          {
+            "Value": ""
+          }
+        ]
+      }
+    }
+  ]
+}
